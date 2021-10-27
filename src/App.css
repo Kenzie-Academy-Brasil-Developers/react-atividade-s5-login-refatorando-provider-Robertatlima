@@ -1,0 +1,21 @@
+.App {
+  height: 100vh;
+  background: #575550;
+  background: -moz-linear-gradient(
+    -45deg,
+    #575550 0%,
+    #3d3d3a 49%,
+    #080807 100%
+  );
+  background: -webkit-linear-gradient(
+    -45deg,
+    #575550 0%,
+    #3d3d3a 49%,
+    #080807 100%
+  );
+  background: linear-gradient(135deg, #575550 0%, #3d3d3a 49%, #080807 100%);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,27 @@
+img {
+  width: 300px;
+}
+.buttonLog {
+  width: 300px;
+  height: 43px;
+  border-radius: 8px;
+  margin-top: 20px;
+  background: #4d28fb;
+  background: -moz-linear-gradient(
+    -45deg,
+    #4d28fb 0%,
+    #635afb 49%,
+    #267cfb 100%
+  );
+  background: -webkit-linear-gradient(
+    -45deg,
+    #4d28fb 0%,
+    #635afb 49%,
+    #267cfb 100%
+  );
+  background: linear-gradient(135deg, #4d28fb 0%, #635afb 49%, #267cfb 100%);
+  border: none;
+  color: white;
+  font-size: 22px;
+  font-weight: bold;
+}
